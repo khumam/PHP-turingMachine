@@ -20,5 +20,5 @@ tape = []
 ```
 tape = ['1','1','1','1','+','1','1','1'];
 ```
-4. **important** for division only. Add '#' before and after the number. 
+4. **important** for division only. Add '#' before and after the number. Example 4/2 is **#1111/11###**
 5. The result is the total numbers of 1 after '_' character.
