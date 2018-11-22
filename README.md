@@ -21,4 +21,4 @@ tape = []
 tape = ['1','1','1','1','+','1','1','1'];
 ```
 4. **important** for division only. Add '#' before and after the number. 
-5. The result is the number of 1 after '_' character.
+5. The result is the total numbers of 1 after '_' character.
