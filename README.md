@@ -21,3 +21,4 @@ tape = []
 tape = ['1','1','1','1','+','1','1','1'];
 ```
 4. **important** for division only. Add '#' before and after the number. 
+5. The result is the number of zero (0) after '_' character.
