@@ -23,7 +23,7 @@ $rules = [
           '-' => ['_', 'l', 7]],
 ];
 
-// input number in unary (2+3)
+// input number in unary (3-1)
 $tape = ['1','1','1','-','1'];
 $position = 0;
 $state = 1;
