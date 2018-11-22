@@ -24,5 +24,5 @@ tape = ['1','1','1','1','+','1','1','1'];
 5. The result is the total numbers of 1 after '_' character.
 
 # Contributing
-If you want to contribute to adding the concept of auring machine I am very happy. Add to the main directory. For a touring machine file that can be developed named develope.php
+If you want to contribute to adding the concept of turing machine, I am very happy. Add to the main directory. For a turing machine file that can be developed named develope.php
 Thank you.
