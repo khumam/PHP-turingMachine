@@ -1,6 +1,6 @@
 # Turing Machine with PHP
 
-Finnaly, i found the PHP script for Turing Machine concept. Thanks to [igorw via gist github](https://gist.github.com/igorw)
+Finnaly, i found the PHP script for the concept of Turing Machine. Thanks to [igorw via gist github](https://gist.github.com/igorw)
 
 So, this is the turing machine for addition, subtraction, multiplication, and division.
 
